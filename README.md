@@ -11,7 +11,7 @@ A Convolutional Neural Network (CNN) was implemented using TensorFlow and Keras 
 ## Installation & Setup
 
 ### **1. Clone the Repository**
-```bash
+
 git clone https://github.com/sarahqasim/Final-Project-DS.git
 cd Final-Project-DS
 
